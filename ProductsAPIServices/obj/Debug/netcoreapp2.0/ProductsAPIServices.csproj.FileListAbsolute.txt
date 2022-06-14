@@ -1,0 +1,13 @@
+D:\avita\APIGatewayDemo\ProductsAPIServices\bin\Debug\netcoreapp2.0\ProductsAPIServices.deps.json
+D:\avita\APIGatewayDemo\ProductsAPIServices\bin\Debug\netcoreapp2.0\ProductsAPIServices.runtimeconfig.json
+D:\avita\APIGatewayDemo\ProductsAPIServices\bin\Debug\netcoreapp2.0\ProductsAPIServices.runtimeconfig.dev.json
+D:\avita\APIGatewayDemo\ProductsAPIServices\bin\Debug\netcoreapp2.0\ProductsAPIServices.dll
+D:\avita\APIGatewayDemo\ProductsAPIServices\bin\Debug\netcoreapp2.0\ProductsAPIServices.pdb
+D:\avita\APIGatewayDemo\ProductsAPIServices\obj\Debug\netcoreapp2.0\ProductsAPIServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\avita\APIGatewayDemo\ProductsAPIServices\obj\Debug\netcoreapp2.0\ProductsAPIServices.AssemblyInfoInputs.cache
+D:\avita\APIGatewayDemo\ProductsAPIServices\obj\Debug\netcoreapp2.0\ProductsAPIServices.AssemblyInfo.cs
+D:\avita\APIGatewayDemo\ProductsAPIServices\obj\Debug\netcoreapp2.0\ProductsAPIServices.csproj.CoreCompileInputs.cache
+D:\avita\APIGatewayDemo\ProductsAPIServices\obj\Debug\netcoreapp2.0\ProductsAPIServices.dll
+D:\avita\APIGatewayDemo\ProductsAPIServices\obj\Debug\netcoreapp2.0\ProductsAPIServices.pdb
+D:\avita\APIGatewayDemo\ProductsAPIServices\obj\Debug\netcoreapp2.0\ProductsAPIServices.genruntimeconfig.cache
+D:\avita\APIGatewayDemo\ProductsAPIServices\obj\Debug\netcoreapp2.0\ProductsAPIServices.csproj.AssemblyReference.cache

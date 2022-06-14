@@ -1,0 +1,14 @@
+D:\avita\APIGatewayDemo\APIGateway\bin\Debug\netcoreapp2.0\configuration.json
+D:\avita\APIGatewayDemo\APIGateway\bin\Debug\netcoreapp2.0\APIGateway.deps.json
+D:\avita\APIGatewayDemo\APIGateway\bin\Debug\netcoreapp2.0\APIGateway.runtimeconfig.json
+D:\avita\APIGatewayDemo\APIGateway\bin\Debug\netcoreapp2.0\APIGateway.runtimeconfig.dev.json
+D:\avita\APIGatewayDemo\APIGateway\bin\Debug\netcoreapp2.0\APIGateway.dll
+D:\avita\APIGatewayDemo\APIGateway\bin\Debug\netcoreapp2.0\APIGateway.pdb
+D:\avita\APIGatewayDemo\APIGateway\obj\Debug\netcoreapp2.0\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\avita\APIGatewayDemo\APIGateway\obj\Debug\netcoreapp2.0\APIGateway.AssemblyInfoInputs.cache
+D:\avita\APIGatewayDemo\APIGateway\obj\Debug\netcoreapp2.0\APIGateway.AssemblyInfo.cs
+D:\avita\APIGatewayDemo\APIGateway\obj\Debug\netcoreapp2.0\APIGateway.csproj.CoreCompileInputs.cache
+D:\avita\APIGatewayDemo\APIGateway\obj\Debug\netcoreapp2.0\APIGateway.dll
+D:\avita\APIGatewayDemo\APIGateway\obj\Debug\netcoreapp2.0\APIGateway.pdb
+D:\avita\APIGatewayDemo\APIGateway\obj\Debug\netcoreapp2.0\APIGateway.genruntimeconfig.cache
+D:\avita\APIGatewayDemo\APIGateway\obj\Debug\netcoreapp2.0\APIGateway.csproj.AssemblyReference.cache
