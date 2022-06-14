@@ -37,7 +37,7 @@
             };
             services.AddOcelot(Configuration, settings);
         }
-
+//dddddddddddddddddddddddddddd
         public async void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             await app.UseOcelot();
